@@ -32,7 +32,7 @@ function createImageWithChanges([x, y], backGroundImage, fullName) {
 
     context.drawImage(backGroundImage, 0, 0, canvas.width, canvas.height);
 
-    const fontPath = "Aakar";
+    const fontPath = "AMDAVAD UNICODE";
     context.font = '50px "' + fontPath + '"';
     context.fillStyle = '#FF0000';
 
